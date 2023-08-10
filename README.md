@@ -6,6 +6,13 @@
   <a href="mailto:jyoobin0820@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jyoobin0820@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div><br>
 
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://whyoo.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+</div><br>
 
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:row;">
